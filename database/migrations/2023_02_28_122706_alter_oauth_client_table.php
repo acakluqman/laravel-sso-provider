@@ -15,7 +15,7 @@ class AlterOauthClientTable extends Migration
     {
         if (!Schema::hasColumn('oauth_clients', 'client_url')){
             Schema::table('oauth_clients', function (Blueprint $table) {
-                $table->string('client_url')->after('provider');
+                $table->string('client_url')->after('provider')->nullable(true);
             });
         }
 
