@@ -1,0 +1,37 @@
+[27-Feb-2023 06:26:40 UTC] PHP Warning:  require(/home/luqmanga/repositories/sso/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/luqmanga/repositories/sso/public/index.php on line 34
+[27-Feb-2023 06:26:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/luqmanga/repositories/sso/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/luqmanga/repositories/sso/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/luqmanga/repositories/sso/public/index.php on line 34
+[27-Feb-2023 06:26:41 UTC] PHP Warning:  require(/home/luqmanga/repositories/sso/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/luqmanga/repositories/sso/public/index.php on line 34
+[27-Feb-2023 06:26:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/luqmanga/repositories/sso/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/luqmanga/repositories/sso/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/luqmanga/repositories/sso/public/index.php on line 34
+[27-Feb-2023 06:26:42 UTC] PHP Warning:  require(/home/luqmanga/repositories/sso/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/luqmanga/repositories/sso/public/index.php on line 34
+[27-Feb-2023 06:26:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/luqmanga/repositories/sso/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/luqmanga/repositories/sso/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/luqmanga/repositories/sso/public/index.php on line 34
+[27-Feb-2023 06:26:43 UTC] PHP Warning:  require(/home/luqmanga/repositories/sso/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/luqmanga/repositories/sso/public/index.php on line 34
+[27-Feb-2023 06:26:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/luqmanga/repositories/sso/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/luqmanga/repositories/sso/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/luqmanga/repositories/sso/public/index.php on line 34
+[27-Feb-2023 06:26:44 UTC] PHP Warning:  require(/home/luqmanga/repositories/sso/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/luqmanga/repositories/sso/public/index.php on line 34
+[27-Feb-2023 06:26:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/luqmanga/repositories/sso/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/luqmanga/repositories/sso/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/luqmanga/repositories/sso/public/index.php on line 34
+[27-Feb-2023 06:28:15 UTC] PHP Warning:  require(/home/luqmanga/repositories/sso/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/luqmanga/repositories/sso/public/index.php on line 34
+[27-Feb-2023 06:28:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/luqmanga/repositories/sso/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/luqmanga/repositories/sso/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/luqmanga/repositories/sso/public/index.php on line 34
+[27-Feb-2023 06:29:40 UTC] PHP Warning:  require(/home/luqmanga/repositories/sso/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/luqmanga/repositories/sso/public/index.php on line 34
+[27-Feb-2023 06:29:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/luqmanga/repositories/sso/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/luqmanga/repositories/sso/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/luqmanga/repositories/sso/public/index.php on line 34
+[28-Feb-2023 08:33:08 Asia/Jakarta] PHP Fatal error:  Trait "App\Models\Notifiable" not found in /home/luqmanga/repositories/sso/app/Models/User.php on line 8
+[28-Feb-2023 10:10:23 Asia/Jakarta] PHP Fatal error:  Trait "App\Models\HasRoles" not found in /home/luqmanga/repositories/sso/app/Models/User.php on line 9
